@@ -1,0 +1,1 @@
+CREATE DATABASE fortune500_db;
